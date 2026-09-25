@@ -4,3 +4,4 @@ featureブランチでの変更
 masterからの変更
 branch-aからの変更
 githubから直接触った部分
+こんにちは！
